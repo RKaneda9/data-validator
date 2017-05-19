@@ -1,0 +1,25 @@
+{
+  "name": "data-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Raiden Kaneda",
+  "homepage": "https://github.com/RKaneda9/data-validator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RKaneda9/data-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RKaneda9/data-validator/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
